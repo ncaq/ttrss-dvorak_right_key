@@ -17,7 +17,7 @@ class Ncaq_Keys extends Plugin {
         $hotkeys["r"]          = "feed_refresh";
         $hotkeys["t"]          = "prev_article_noscroll";
         $hotkeys["v"]          = "open_in_new_window";
-        $hotkeys["z"]          = "toggle_publ";
+        $hotkeys["z"]          = "toggle_mark";
 
         unset($hotkeys["a"]);
         unset($hotkeys["e"]);
