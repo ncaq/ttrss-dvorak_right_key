@@ -1,9 +1,9 @@
 <?php
-class Ncaq_Keys extends Plugin {
+class Dvorak_Right_Key extends Plugin {
     private $host;
 
     function about() {
-        return array(1.0, "ncaq keybind", "ncaq");
+        return array(1.0, "Dvorak right position keys", "ncaq");
     }
 
     function init($host) {
